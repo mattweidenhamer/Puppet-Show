@@ -1,3 +1,5 @@
 # Puppet-Show
 
-An attempt to recreate the Discord Streamer Kit with a small number of quality of life improvements.
+A website built to make PNGTubing with content creation simple and easy.
+
+You can visit this website: Puppetshow.site
